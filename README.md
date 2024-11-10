@@ -5,3 +5,5 @@
 - 🌱 I'm currently learning _**La fille aux cheveux de Lin**_ of **Claude Debussy** and TypeScript 😅
 - 🗝️ I collaborate on the **Ecole Directe Plus** project
 - 💖 You know, the life is cool, so have fun ! 😉
+
+[![](https://visitcount.itsvg.in/api?id=as2pick&label=Views&color=12&icon=8&pretty=false)](https://visitcount.itsvg.in)
